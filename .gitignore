@@ -1,0 +1,11 @@
+# JupyterLab autosaves
+.ipynb_checkpoints/
+
+# Python bytecode cache
+__pycache__/
+
+# Datasets you don't want in git
+data/
+
+# Secrets
+.env
