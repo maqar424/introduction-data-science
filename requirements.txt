@@ -2,4 +2,4 @@ jupyterlab
 pandas
 matplotlib
 seaborn
-spicy
+scipy
